@@ -7,7 +7,6 @@ aniso8601==9.0.1
 anyio==4.6.2
 argon2-cffi==21.3.0               
 argon2-cffi-bindings==21.2.0            
-arrow-cpp>=15.0.0                
 asttokens==2.0.5                
 async-lru==2.0.4             
 attrs==23.1.0            
@@ -231,7 +230,7 @@ propcache==0.2.0
 protobuf==4.25.3                   
 psutil==5.9.0           
 pure_eval==0.2.2              
-pyarrow==18.0.0                   
+pyarrow==14.0.2                  
 pybind11-abi==5                     
 pycparser==2.21                 
 pydeck==0.9.1                    
